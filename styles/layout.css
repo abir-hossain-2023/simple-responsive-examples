@@ -15,9 +15,12 @@
 }
 .advertise{
     grid-area: advertise;
+    margin-bottom: 50%;
 }
 .sidebar{
     grid-area: sidebar;
+    margin-top: 50%;
+    
 }
 .footer{
     grid-area: footer;
